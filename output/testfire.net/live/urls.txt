@@ -1,8 +1,0 @@
-https://altoro.testfire.net
-https://demo.testfire.net
-https://demo2.testfire.net
-https://evil.testfire.net
-https://ftp.testfire.net
-https://localhost.testfire.net
-https://testfire.net
-https://www.testfire.net
