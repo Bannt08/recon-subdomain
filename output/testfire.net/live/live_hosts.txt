@@ -1,0 +1,8 @@
+https://testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://demo.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://demo2.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://localhost.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://altoro.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://ftp.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://www.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]
+https://evil.testfire.net [200] [Altoro Mutual] [Apache Tomcat,Java]

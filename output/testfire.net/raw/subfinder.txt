@@ -1,0 +1,8 @@
+altoro.testfire.net
+demo.testfire.net
+demo2.testfire.net
+evil.testfire.net
+ftp.testfire.net
+localhost.testfire.net
+testsite.testfire.net
+www.testfire.net
